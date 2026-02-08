@@ -1,0 +1,17 @@
+{
+	id: "ddc8399c-4ccc-4bf3-9b86-616db892d9b4"
+	type: "player"
+	player_name: "CraftyAlpaca"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "CraftyAlpaca"
+		"ftbteams:color": "#FF59BE"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

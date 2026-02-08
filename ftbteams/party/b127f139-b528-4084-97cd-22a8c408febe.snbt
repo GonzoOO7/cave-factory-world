@@ -1,0 +1,24 @@
+{
+	id: "b127f139-b528-4084-97cd-22a8c408febe"
+	type: "party"
+	owner: "ddc8399c-4ccc-4bf3-9b86-616db892d9b4"
+	ranks: {
+		ddc8399c-4ccc-4bf3-9b86-616db892d9b4: "owner"
+		c154ce3b-9f1b-4009-8e6a-3e7892046a57: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "CraftyAlpaca's Party"
+		"ftbteams:color": "#FF59BE"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 1b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1770550533243L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"CraftyAlpaca\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "ddc8399c-4ccc-4bf3-9b86-616db892d9b4", date: 1770550533246L, text: "{\"color\":\"green\",\"text\":\"Invited gonzo007\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1770550534530L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"gonzo007\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

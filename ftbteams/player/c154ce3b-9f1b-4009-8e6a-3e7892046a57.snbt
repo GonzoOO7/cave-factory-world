@@ -1,0 +1,17 @@
+{
+	id: "c154ce3b-9f1b-4009-8e6a-3e7892046a57"
+	type: "player"
+	player_name: "gonzo007"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "gonzo007"
+		"ftbteams:color": "#59FFC0"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
