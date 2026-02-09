@@ -17123,6 +17123,7 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "tool_binding": "2026-02-09 17:41:45 +0100",
       "tool_handle": "2026-02-08 20:06:29 +0100",
       "pickaxe_head": "2026-02-08 15:27:42 +0100",
       "ingot": "2026-02-08 15:01:01 +0100"
@@ -22615,6 +22616,12 @@
     },
     "done": true
   },
+  "create:lava_wheel": {
+    "criteria": {
+      "0": "2026-02-09 17:29:34 +0100"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/module_template": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:21 +0100"
@@ -24541,6 +24548,7 @@
       "cobalt": "2026-02-08 20:08:22 +0100",
       "copper": "2026-02-08 20:08:22 +0100",
       "wood": "2026-02-08 12:00:54 +0100",
+      "rose_gold": "2026-02-09 17:38:29 +0100",
       "stone": "2026-02-08 12:00:54 +0100",
       "iron": "2026-02-08 15:16:01 +0100"
     },
@@ -28853,6 +28861,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_birch_bricks_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:05 +0100"
+    },
+    "done": true
+  },
+  "create:fan_lava": {
+    "criteria": {
+      "0": "2026-02-09 17:29:37 +0100"
     },
     "done": true
   },
@@ -48981,6 +48995,12 @@
     },
     "done": true
   },
+  "create:electron_tube": {
+    "criteria": {
+      "0": "2026-02-09 16:51:05 +0100"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_cabinet": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:11 +0100"
@@ -51192,6 +51212,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_cactus_pink_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:14 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2026-02-09 17:47:36 +0100"
     },
     "done": true
   },
