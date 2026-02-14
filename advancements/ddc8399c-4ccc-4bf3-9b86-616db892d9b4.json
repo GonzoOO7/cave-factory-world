@@ -1547,6 +1547,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2026-02-14 16:39:16 +0100"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_sofa": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:08 +0100"
@@ -9622,6 +9628,12 @@
     },
     "done": true
   },
+  "create:wand_of_symmetry": {
+    "criteria": {
+      "0": "2026-02-14 15:32:41 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_crimson_jungle_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:22 +0100"
@@ -13750,6 +13762,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2026-02-14 16:12:36 +0100"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_blinds": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:22 +0100"
@@ -15916,6 +15934,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-02-14 15:58:58 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_acacia_black_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:21 +0100"
@@ -17011,6 +17035,8 @@
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "blank": "2026-02-08 15:00:33 +0100",
+      "tool_handle": "2026-02-14 16:45:41 +0100",
+      "pickaxe_head": "2026-02-14 16:07:07 +0100",
       "ingot": "2026-02-08 15:00:56 +0100"
     },
     "done": false
@@ -18290,6 +18316,12 @@
   "bigreactors:recipes/bigreactors.turbine/turbine/basic/chargingfe": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:20 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_silents_mechanisms": {
+    "criteria": {
+      "has_item": "2026-02-14 16:39:16 +0100"
     },
     "done": true
   },
@@ -20295,6 +20327,12 @@
   "structurize:recipes/structurize.timber_frames/framed_acacia_brown_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:04 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_iceandfire": {
+    "criteria": {
+      "has_item": "2026-02-14 16:39:16 +0100"
     },
     "done": true
   },
@@ -25007,6 +25045,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_crimson_beige_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-02-14 15:32:41 +0100"
     },
     "done": true
   },
@@ -29734,6 +29778,12 @@
     },
     "done": true
   },
+  "create:pipe_spill": {
+    "criteria": {
+      "0": "2026-02-14 16:15:49 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_oak_blue_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:23 +0100"
@@ -33817,6 +33867,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_cactus_blackstone_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:26 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_iceandfire": {
+    "criteria": {
+      "has_item": "2026-02-14 16:39:16 +0100"
     },
     "done": true
   },
@@ -40603,6 +40659,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:42 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_mysticalworld": {
+    "criteria": {
+      "has_item": "2026-02-14 16:39:16 +0100"
     },
     "done": true
   },
@@ -49846,6 +49908,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_silents_mechanisms": {
+    "criteria": {
+      "has_item": "2026-02-14 16:39:16 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/bloodshroom/stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:37 +0100"
@@ -51610,6 +51678,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_mysticalworld": {
+    "criteria": {
+      "has_item": "2026-02-14 16:39:16 +0100"
+    },
+    "done": true
+  },
   "botania:recipes/botania/apothecary_mountain": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:27 +0100"
@@ -51919,6 +51993,12 @@
   "structurize:recipes/structurize.timber_frames/framed_oak_dark_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:32 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2026-02-14 16:39:16 +0100"
     },
     "done": true
   },

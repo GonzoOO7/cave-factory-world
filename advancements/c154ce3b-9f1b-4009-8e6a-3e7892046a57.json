@@ -1886,6 +1886,12 @@
     },
     "done": true
   },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2026-02-14 15:17:49 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/greenheart/button": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:00 +0100"
@@ -3387,6 +3393,12 @@
   "cfm:recipes/cfm/granite_chair": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-02-14 14:32:44 +0100"
     },
     "done": true
   },
@@ -6617,6 +6629,12 @@
       "has_the_recipe": "2026-02-08 11:48:13 +0100"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2026-02-09 18:32:09 +0100"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_spruce_bricks_timber_frame": {
     "criteria": {
@@ -11779,6 +11797,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/mindelay": {
+    "criteria": {
+      "modifier": "2026-02-09 18:32:15 +0100"
+    },
+    "done": true
+  },
   "botania:recipes/botania/framed_dreamwood": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:47:56 +0100"
@@ -14683,6 +14707,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "cleaver": "2026-02-14 14:50:43 +0100"
+    },
+    "done": false
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_dark_oak_blue_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:04 +0100"
@@ -16263,6 +16293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-02-14 14:39:21 +0100"
+    },
+    "done": true
+  },
   "bountifulbaubles:recipes/bountifulbaubles/disintegration/shield_ankh": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:47:57 +0100"
@@ -16989,6 +17025,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tinkers_anvil": {
+    "criteria": {
+      "crafted_overworld": "2026-02-09 18:39:26 +0100"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:16 +0100"
@@ -17123,8 +17165,12 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "tough_handle": "2026-02-09 18:28:50 +0100",
+      "large_plate": "2026-02-14 14:49:16 +0100",
       "tool_binding": "2026-02-09 17:41:45 +0100",
+      "hammer_head": "2026-02-14 15:25:28 +0100",
       "tool_handle": "2026-02-08 20:06:29 +0100",
+      "broad_blade": "2026-02-09 18:29:01 +0100",
       "pickaxe_head": "2026-02-08 15:27:42 +0100",
       "ingot": "2026-02-08 15:01:01 +0100"
     },
@@ -21176,6 +21222,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2026-02-14 14:29:01 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_dark_oak_birch_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:47:57 +0100"
@@ -24549,8 +24601,10 @@
       "copper": "2026-02-08 20:08:22 +0100",
       "wood": "2026-02-08 12:00:54 +0100",
       "rose_gold": "2026-02-09 17:38:29 +0100",
+      "hepatizon": "2026-02-14 14:50:43 +0100",
       "stone": "2026-02-08 12:00:54 +0100",
-      "iron": "2026-02-08 15:16:01 +0100"
+      "iron": "2026-02-08 15:16:01 +0100",
+      "nahuatl": "2026-02-14 14:50:43 +0100"
     },
     "done": false
   },
@@ -29320,6 +29374,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2026-02-14 14:39:30 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_spruce_beige_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:03 +0100"
@@ -32734,6 +32794,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2026-02-14 16:10:37 +0100"
+    },
+    "done": false
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_acacia_paper_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:47:55 +0100"
@@ -35130,6 +35196,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2026-02-14 14:27:16 +0100",
+      "minecraft:skeleton": "2026-02-14 16:10:31 +0100",
       "minecraft:enderman": "2026-02-08 19:35:10 +0100",
       "minecraft:zombie": "2026-02-08 13:07:47 +0100"
     },
@@ -44837,6 +44905,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-02-14 14:27:08 +0100"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smelting_upgrade": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:12 +0100"
@@ -53486,6 +53560,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_cactus_blackstone_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:07 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candelabra_silver": {
+    "criteria": {
+      "has_plank": "2026-02-14 14:46:40 +0100"
     },
     "done": true
   },
