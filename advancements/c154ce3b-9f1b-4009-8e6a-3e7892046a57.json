@@ -8060,7 +8060,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "earth": "2026-02-08 12:05:21 +0100"
+      "earth": "2026-02-08 12:05:21 +0100",
+      "blood": "2026-02-14 19:57:23 +0100"
     },
     "done": false
   },
@@ -11044,6 +11045,12 @@
   "extradisks:recipes/extradisks/disk/shapeless/16384k_storage_disk": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:18 +0100"
+    },
+    "done": true
+  },
+  "create:fan_smoke": {
+    "criteria": {
+      "0": "2026-02-19 22:03:03 +0100"
     },
     "done": true
   },
@@ -16353,6 +16360,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-19 20:51:01 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_warped_brown_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:03 +0100"
@@ -17168,6 +17181,7 @@
       "tough_handle": "2026-02-09 18:28:50 +0100",
       "large_plate": "2026-02-14 14:49:16 +0100",
       "tool_binding": "2026-02-09 17:41:45 +0100",
+      "broad_axe_head": "2026-02-19 20:40:10 +0100",
       "hammer_head": "2026-02-14 15:25:28 +0100",
       "tool_handle": "2026-02-08 20:06:29 +0100",
       "broad_blade": "2026-02-09 18:29:01 +0100",
@@ -21300,6 +21314,13 @@
     },
     "done": true
   },
+  "create:reinforced": {
+    "criteria": {
+      "0": "2026-02-15 16:55:32 +0100",
+      "1": "2026-02-15 16:55:13 +0100"
+    },
+    "done": false
+  },
   "rftoolspower:recipes/rftoolspower/pearl_injector": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:47:55 +0100"
@@ -25235,6 +25256,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_crimson_beige_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:47:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-02-15 16:53:24 +0100"
     },
     "done": true
   },
@@ -44749,6 +44776,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2026-02-15 16:41:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/ichor": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:04 +0100"
@@ -54319,6 +54352,12 @@
     },
     "done": true
   },
+  "create:belt_funnel": {
+    "criteria": {
+      "0": "2026-02-15 16:49:40 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/up_gated_acacia_green_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:15 +0100"
@@ -58439,6 +58478,7 @@
     "criteria": {
       "minecraft:snowy_mountains": "2026-02-08 17:34:50 +0100",
       "minecraft:mountains": "2026-02-08 12:29:57 +0100",
+      "minecraft:forest": "2026-02-14 19:53:29 +0100",
       "minecraft:taiga": "2026-02-08 12:29:25 +0100",
       "minecraft:snowy_tundra": "2026-02-08 13:49:32 +0100",
       "minecraft:taiga_hills": "2026-02-08 12:38:20 +0100",
