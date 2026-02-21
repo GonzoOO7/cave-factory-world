@@ -1877,6 +1877,12 @@
     },
     "done": true
   },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2026-02-21 15:54:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:01 +0100"
@@ -5146,6 +5152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_cactus_light_gray_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:45 +0100"
@@ -6625,6 +6637,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_spruce_green_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
     },
     "done": true
   },
@@ -14608,6 +14626,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "excavator": "2026-02-21 16:18:46 +0100"
+    },
+    "done": false
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_dark_oak_blue_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:24 +0100"
@@ -21068,6 +21092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
+    },
+    "done": true
+  },
   "botania:recipes/botania/sextant": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:23 +0100"
@@ -24413,6 +24443,7 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "wood": "2026-02-08 12:40:47 +0100",
+      "tinkers_bronze": "2026-02-21 16:18:46 +0100",
       "stone": "2026-02-08 12:40:47 +0100",
       "iron": "2026-02-08 15:11:24 +0100"
     },
@@ -29172,6 +29203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_wallmount": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:21 +0100"
@@ -29205,6 +29242,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_dark_oak_cactus_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
     },
     "done": true
   },
@@ -30762,6 +30805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_blinds": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:22 +0100"
@@ -31407,6 +31456,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_dark_oak_pink_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
     },
     "done": true
   },
@@ -32151,6 +32206,12 @@
   "structurize:recipes/structurize.timber_frames/down_gated_crimson_cactus_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
     },
     "done": true
   },
@@ -33504,6 +33565,12 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2026-02-21 16:21:02 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_oak_blue_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:30 +0100"
@@ -33951,6 +34018,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_birch_brown_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
     },
     "done": true
   },
@@ -42552,6 +42625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.shingles/cyan_clay_dark_oak_shingle": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:13 +0100"
@@ -47205,6 +47284,12 @@
   "structurize:recipes/structurize.timber_frames/plain_dark_oak_beige_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
     },
     "done": true
   },
@@ -52836,6 +52921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_slab_from_polished_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:23 +0100"
@@ -54636,6 +54727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_acacia_yellow_terracotta_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:26 +0100"
@@ -54831,6 +54928,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
     },
     "done": true
   },
@@ -55251,6 +55354,12 @@
   "structurize:recipes/structurize.timber_frames/horizontal_plain_crimson_red_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 12:30:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2026-02-21 16:03:31 +0100"
     },
     "done": true
   },

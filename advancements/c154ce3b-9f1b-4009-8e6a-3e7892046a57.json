@@ -3888,6 +3888,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2026-02-21 18:57:55 +0100"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/crimson_bark_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:47:54 +0100"
@@ -14716,6 +14722,8 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "excavator": "2026-02-21 16:18:43 +0100",
+      "sledge_hammer": "2026-02-21 15:26:01 +0100",
       "cleaver": "2026-02-14 14:50:43 +0100"
     },
     "done": false
@@ -17182,6 +17190,7 @@
       "large_plate": "2026-02-14 14:49:16 +0100",
       "tool_binding": "2026-02-09 17:41:45 +0100",
       "broad_axe_head": "2026-02-19 20:40:10 +0100",
+      "gem": "2026-02-21 14:53:05 +0100",
       "hammer_head": "2026-02-14 15:25:28 +0100",
       "tool_handle": "2026-02-08 20:06:29 +0100",
       "broad_blade": "2026-02-09 18:29:01 +0100",
@@ -24622,6 +24631,7 @@
       "copper": "2026-02-08 20:08:22 +0100",
       "wood": "2026-02-08 12:00:54 +0100",
       "rose_gold": "2026-02-09 17:38:29 +0100",
+      "tinkers_bronze": "2026-02-21 15:26:01 +0100",
       "hepatizon": "2026-02-14 14:50:43 +0100",
       "stone": "2026-02-08 12:00:54 +0100",
       "iron": "2026-02-08 15:16:01 +0100",
@@ -25046,6 +25056,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_birch_stone_bricks_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:15 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2026-02-21 18:17:38 +0100"
     },
     "done": true
   },
@@ -28795,6 +28811,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-02-21 18:47:19 +0100",
       "spider_eye": "2026-02-08 14:37:55 +0100",
       "potato": "2026-02-08 15:16:22 +0100",
       "rotten_flesh": "2026-02-08 12:46:28 +0100"
@@ -29158,6 +29175,12 @@
   "tconstruct:recipes/tconstruct/general/tables/tinker_station": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:01 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2026-02-21 18:32:19 +0100"
     },
     "done": true
   },
@@ -35225,6 +35248,10 @@
     "criteria": {
       "minecraft:blaze": "2026-02-14 14:27:16 +0100",
       "minecraft:skeleton": "2026-02-14 16:10:31 +0100",
+      "minecraft:hoglin": "2026-02-21 18:42:31 +0100",
+      "minecraft:zombified_piglin": "2026-02-21 17:36:44 +0100",
+      "minecraft:wither_skeleton": "2026-02-21 18:17:36 +0100",
+      "minecraft:piglin": "2026-02-21 18:43:01 +0100",
       "minecraft:enderman": "2026-02-08 19:35:10 +0100",
       "minecraft:zombie": "2026-02-08 13:07:47 +0100"
     },
@@ -41422,6 +41449,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2026-02-21 18:57:51 +0100"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_detector": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:07 +0100"
@@ -42235,6 +42268,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_steel": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:04 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/redstone": {
+    "criteria": {
+      "modifier": "2026-02-21 15:12:24 +0100"
     },
     "done": true
   },
@@ -45169,6 +45208,12 @@
   "betterendforge:recipes/betterendforge/end_lotus_chest": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:19 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2026-02-21 18:53:54 +0100"
     },
     "done": true
   },
@@ -48364,6 +48409,12 @@
     },
     "done": true
   },
+  "tconstruct:foundry/blaze": {
+    "criteria": {
+      "seared_fuel_tank": "2026-02-21 09:45:11 +0100"
+    },
+    "done": true
+  },
   "botania:recipes/botania/rainbow_rod": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:04 +0100"
@@ -49825,6 +49876,12 @@
   "structurize:recipes/structurize.timber_frames/down_gated_dark_oak_crimson_timber_frame": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-02-21 18:18:31 +0100"
     },
     "done": true
   },
@@ -52741,6 +52798,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_the_recipe": "2026-02-08 11:48:19 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2026-02-21 18:19:15 +0100"
     },
     "done": true
   },
